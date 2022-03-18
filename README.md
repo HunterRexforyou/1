@@ -1,6 +1,3 @@
-#inlcude<iostream>
-using namespace std;
-  
-int main(){
-  return0;
-}
+Hello everyone! I am HunterRexforyou.
+If you want to join in us, that's our pleasure!
+Welcome!
